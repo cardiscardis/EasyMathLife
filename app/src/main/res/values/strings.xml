@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Easy MathLife</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Gift from Cardis</string>
+    <string name="nav_header_subtitle">giftedcardis@outlook.com</string>
+    <string name="nav_header_desc">Call me @ 08101691795</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_arith">Arithmetic</string>
+    <string name="menu_chem">Chemistry</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="error_msg">Error Data. Check Your Data</string>
+</resources>
