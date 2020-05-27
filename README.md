@@ -32,4 +32,5 @@ a fragment) where the solution steps are displayed.
 - A homepage. This must contain generic scientific calculator UI controls where simple arithmetic operations are 
 performed with other related functions.
 
-Feel free to clone or fork this repo and also keep pulling request. Thanks
+Feel free to clone or fork this repo and also keep pulling request or send request invite to me via giftedcardis@outlook.com.
+Thanks.
